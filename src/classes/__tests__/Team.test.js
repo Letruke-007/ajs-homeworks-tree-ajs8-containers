@@ -41,5 +41,3 @@ test('Testing command to array conversion', () => {
 
   expect(result).toEqual([character1, character2]);
 });
-
-
